@@ -14,8 +14,8 @@ A project created following Sebastian Lague's tutorials on Procedural Planets (h
 
 # Visualizer
 
-A visualizer based on the based on the tutorial of Pear Play (https://www.youtube.com/watch?v=4Av788P9stk).
+A visualizer based on the tutorial of Pear Play (https://www.youtube.com/watch?v=4Av788P9stk).
 
 # VR Project
 
-Project to get started with XR, following tutorial by VR with Andrew (https://www.youtube.com/watch?v=yhn501096Fc), will extend in future, maybe combine with `FPS Bouncy Shooter`.
+Project to get started with XR, following tutorial by VR with Andrew (https://www.youtube.com/watch?v=yhn501096Fc), will be extended in the future, maybe combine with `FPS Bouncy Shooter`. 
